@@ -9,6 +9,7 @@ out/
 # NestJS / TypeScript build output
 dist/
 build/
+*.tsbuildinfo
 
 # Logs
 *.log
